@@ -1,0 +1,34 @@
+{
+    "name": "general-extension-pack",
+    "displayName": "General Extension Pack",
+    "description": "Extensions for general use",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "VisualStudioExptTeam.vscodeintellicode",
+        "esbenp.prettier-vscode",
+        "vscode-icons-team.vscode-icons",
+        "christian-kohler.path-intellisense",
+        "streetsidesoftware.code-spell-checker",
+        "yzhang.markdown-all-in-one",
+        "aaron-bond.better-comments",
+        "anseki.vscode-color",
+        "shardulm94.trailing-spaces",
+        "GitHub.vscode-pull-request-github",
+        "codezombiech.gitignore",
+        "eamodio.gitlens",
+        "GitHub.copilot",
+        "wmaurer.change-case",
+        "adpyke.codesnap",
+        "usernamehw.errorlens",
+        "kisstkondoros.vscode-gutter-preview",
+        "bierner.emojisense",
+        "jasonlhy.hungry-delete",
+        "wix.vscode-import-cost"
+    ]
+}
